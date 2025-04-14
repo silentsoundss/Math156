@@ -11,7 +11,7 @@ i. Train the LMS regression on the best w.
 j. Run it again and report the error.  
 
 Here is the output: (not all the parts have an output).  
-(d) ![Predictions Plot](images/winequalityplot.png)  
+(d) ![Predictions Plot](winequalityplot.png)  
 (e) RMSE on Train Set: 0.6513  
     RMSE on Test Set: 0.6245  
 (h) RMSE with η=1e-06: 0.7312  
